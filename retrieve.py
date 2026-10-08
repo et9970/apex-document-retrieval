@@ -1,5 +1,5 @@
 """
-retrieve.py - Step 3: BM25 retrieval over chunks -> submission CSV
+retrieve.py - Step 3: BM25 retrieval over chunks -> submission CSV  
 
 Usage (from project root, venv active):
     python src/retrieve.py                       # uses public_submission_template.csv
